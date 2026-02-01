@@ -83,6 +83,9 @@ function App() {
         </main>
 
         <footer className="text-center text-sm text-slate-400 pt-10 pb-4 border-t border-slate-100 mt-10">
+          <p className="mb-4 text-xs italic text-slate-500 bg-slate-100/50 py-2 px-4 rounded-lg inline-block border border-slate-200/50">
+            ⚠️ <strong>Lưu ý:</strong> Kết quả mang tính chất tham khảo. Luôn kiểm tra đối soát thực tế trên Kênh Người Bán.
+          </p>
           <div className="flex items-center justify-center gap-6 mb-4">
             <a
               href="https://zalo.me/g/qlkrld553"
